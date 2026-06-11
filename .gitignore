@@ -1,1 +1,14 @@
 .venv
+*.pkl
+*.h5
+*.joblib
+*.log
+*.csv
+*.xlsx
+*.json
+*.ipynb
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
