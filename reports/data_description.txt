@@ -1,0 +1,52 @@
+Data Shape: (2018, 16)
+
+
+Data Types:
+date                str
+gender              str
+age               int64
+address             str
+famsize             str
+Pstatus             str
+M_Edu             int64
+F_Edu             int64
+M_Job               str
+F_Job               str
+relationship        str
+smoker              str
+tuition_fee       int64
+time_friends      int64
+ssc_result      float64
+hsc_result      float64
+dtype: object
+
+
+Missing Values:
+date            0
+gender          0
+age             0
+address         0
+famsize         0
+Pstatus         0
+M_Edu           0
+F_Edu           0
+M_Job           0
+F_Job           0
+relationship    0
+smoker          0
+tuition_fee     0
+time_friends    0
+ssc_result      0
+hsc_result      0
+dtype: int64
+
+
+Statistical Summary:
+               count          mean           std      min       25%       50%       75%       max
+age           2018.0     17.981169      0.826340     17.0     17.00     18.00     19.00      19.0
+M_Edu         2018.0      1.871160      1.194206      0.0      1.00      2.00      3.00       4.0
+F_Edu         2018.0      2.174430      1.252979      0.0      1.00      2.00      3.00       4.0
+tuition_fee   2018.0  72977.637760  24045.222595  25102.0  53619.50  71272.50  90904.75  129168.0
+time_friends  2018.0      3.059960      1.439190      1.0      2.00      3.00      4.00       5.0
+ssc_result    2018.0      3.788087      0.622376      2.0      3.36      3.77      4.23       5.0
+hsc_result    2018.0      3.199177      0.604526      2.0      2.78      3.16      3.58       5.0

@@ -1,0 +1,59 @@
+Counts for date:
+date
+29/04/2018    2018
+Name: count, dtype: int64
+
+Counts for gender:
+gender
+M    1102
+F     916
+Name: count, dtype: int64
+
+Counts for address:
+address
+Rural    1193
+Urban     825
+Name: count, dtype: int64
+
+Counts for famsize:
+famsize
+GT3    1422
+LE3     596
+Name: count, dtype: int64
+
+Counts for Pstatus:
+Pstatus
+Together    1807
+Apart        211
+Name: count, dtype: int64
+
+Counts for M_Job:
+M_Job
+At_home     414
+Services    412
+Other       409
+Teacher     404
+Health      379
+Name: count, dtype: int64
+
+Counts for F_Job:
+F_Job
+Health      442
+Services    407
+Farmer      399
+Teacher     399
+Business    371
+Name: count, dtype: int64
+
+Counts for relationship:
+relationship
+No     1499
+Yes     519
+Name: count, dtype: int64
+
+Counts for smoker:
+smoker
+No     1861
+Yes     157
+Name: count, dtype: int64
+
