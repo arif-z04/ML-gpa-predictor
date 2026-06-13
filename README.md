@@ -14,4 +14,7 @@ pip install -r requirements.txt
 3. Run the training script using `python rf_train.py` to train the model and save it as `rf_model.pkl`
 4. Run the Gradio app using `python app.py` to interact with the model and predict GPA based on user input.
 
-# Dataset
+--- 
+
+> Note: The dataset used in this project is not included in the repository. You will need to obtain the dataset and place it in the `data` directory before running the training script.
+
